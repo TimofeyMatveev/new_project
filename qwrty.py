@@ -1,0 +1,5 @@
+def add(a: int, b: int) -> int:
+    """
+    Суммирую 2 числа.
+    """
+    return a + b
